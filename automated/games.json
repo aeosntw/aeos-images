@@ -1,0 +1,13 @@
+{
+  "title": "All Games",
+  "description": "",
+  "logoUrl": "/assets/img/logos/Aeos.png",
+  "games": [
+    {
+      "title": "Tapper",
+      "imageUrl": "",
+      "genre": "ColecoVision Games",
+      "url": "/launch.html#/assets/games/ugs/cltapper.html"
+    }
+  ]
+}
